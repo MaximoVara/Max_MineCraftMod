@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "maxores:corundum_ore" }
+    }
+}

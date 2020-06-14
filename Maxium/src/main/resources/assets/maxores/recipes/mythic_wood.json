@@ -1,0 +1,34 @@
+{
+    "type": "forge:ore_shaped",
+    
+    "pattern":
+    [
+        "GLG",
+        "LWL",
+        "GLG"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        "L":
+        {
+            "item": "minecraft:dye",
+            "data": 4
+        },
+        "W":
+        {
+            "type": "forge:ore_dict",
+            "ore": "logWood"
+        }
+    },
+    
+    "result":
+    {
+        "item": "maxores:log_mythic",
+        "count": 1
+    }
+}

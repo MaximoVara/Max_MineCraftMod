@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        "MMM",
+        "MMM"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "maxores:mythril_raw"
+        }
+    },
+    
+    "result":
+    {
+        "item": "maxores:mythic_gem_block",
+        "count": 1
+    }
+}

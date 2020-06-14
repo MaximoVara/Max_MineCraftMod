@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " MM",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "maxores:mythril_ingot"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "maxores:mythril_hoe",
+        "count": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "maxores:blocks/corundum_block",
+        "top": "maxores:blocks/corundum_block",
+        "side": "maxores:blocks/corundum_block"
+    }
+}

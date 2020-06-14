@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " M ",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "maxores:mythril_ingot"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "maxores:mythril_spade",
+        "count": 1
+    }
+}

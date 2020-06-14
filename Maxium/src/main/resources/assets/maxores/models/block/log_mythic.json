@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_column", 
+    "textures": 
+    {
+        "end": "maxores:blocks/log_mythic_top",
+        "side": "maxores:blocks/log_mythic"
+        
+    }
+}

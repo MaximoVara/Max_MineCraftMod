@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " L ",
+        "GMG",
+        " L "
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        "L":
+        {
+            "item": "minecraft:dye",
+            "data": 4
+        },
+        "M":
+        {
+            "item": "maxores:corundum"
+        }
+    },
+    
+    "result":
+    {
+        "item": "maxores:mythril_raw",
+        "count": 1
+    }
+}

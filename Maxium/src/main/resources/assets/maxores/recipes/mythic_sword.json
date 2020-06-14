@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " M ",
+        " M ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "maxores:planks_mythic"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "maxores:mythic_sword",
+        "count": 1
+    }
+}

@@ -1,0 +1,41 @@
+//Creative Tab
+itemGroup.maxores.maxore=Max Ores
+
+//Items
+item.corundum.name=Corundum
+item.mythril_raw.name=Mythic Gem
+item.mythril_ingot.name=Mythril Ingot
+
+//Armor
+item.mythril_helmet.name=Mythril Helmet
+item.mythril_chestplate.name=Mythril Chestplate
+item.mythril_leggings.name=Mythril Leggings
+item.mythril_boots.name=Mythril Boots
+
+//Blocks
+tile.log_mythic.name=Mythical Wood
+tile.planks_mythic.name=Mythical Planks
+
+tile.corundum_ore.name=Corundum Ore
+tile.corundum_block.name=Corundum Block
+tile.mythril_block.name=Mythril Block
+tile.mythic_gem_block.name=Mythic Gem Block
+
+tile.mythic_wood_stairs.name=Mythic Wood Stairs
+tile.corundum_stairs.name=Corundum Stairs
+tile.mythic_gem_stairs.name=Mythic Gem Stairs
+tile.mythril_stairs.name=Mythril Stairs
+
+
+//Tools
+item.mythic_axe.name=Mythic Wood Axe
+item.mythic_hoe.name=Mythic Wood Hoe
+item.mythic_pickaxe.name=Mythic Wood Pickaxe
+item.mythic_spade.name=Mythic Wood Shovel
+item.mythic_sword.name=Mythic Wood Sword  
+
+item.mythril_axe.name=Mythril Axe
+item.mythril_hoe.name=Mythril Hoe
+item.mythril_pickaxe.name=Mythril Pickaxe
+item.mythril_spade.name=Mythril Shovel
+item.mythril_sword.name=Mythril Sword  

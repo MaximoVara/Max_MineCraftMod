@@ -1,0 +1,16 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+    {
+      "item": "maxores:log_mythic"
+    }
+    ],
+
+    "result": 
+    {
+        "item": "maxores:planks_mythic",
+        "count": 4
+    }
+}

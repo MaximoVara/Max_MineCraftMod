@@ -1,0 +1,9 @@
+{
+	"variants":
+	{
+		"axis=x": { "model": "maxores:log_mythic", "x": 90, "y": 90},
+		"axis=y": { "model": "maxores:log_mythic"},
+		"axis=z": { "model": "maxores:log_mythic", "x": 90},
+		"axis=none": { "model": "maxores:log_mythic", "x": 90, "y": 90}
+	}
+}

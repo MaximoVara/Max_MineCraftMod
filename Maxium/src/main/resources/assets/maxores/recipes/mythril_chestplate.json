@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M M",
+        "MMM",
+        "MMM"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "maxores:mythril_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "maxores:mythril_chestplate",
+        "count": 1
+    }
+}
